@@ -1,0 +1,2 @@
+$ git branch ++++ #Para crear una rama
+$git checkout '+++++' #Para cambiar de ramas
